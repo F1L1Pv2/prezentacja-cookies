@@ -1,6 +1,7 @@
 <html>
 
 <body>
+  <h3>Praktyczna część prezentacji</h3>
   <?php
   $cookie_name = "user";
   if (!isset($_COOKIE[$cookie_name])) {
